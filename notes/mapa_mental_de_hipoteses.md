@@ -16,7 +16,10 @@
 # Como escrever as hipóteses?
 
 1. Monta um mindmap com os fenômeno no centro, os agentes ao redor e os atributos dos agentes.
-2. 
+2. Como escrever as hipóteses:
+	* hipóteses são apostas, é aquilo que você acha
+	* Lojas de maior porte deveriam vender mais. (porte é um atributo da loja e vendas é o fenômeno que está sendo modelado). 
+	* é uma relação de correlação e não de causa e efeito... o que quer saber é todos esses pequenos efeitos que influenciam no fenômeno
 
 # Objetivo do mapa
 
