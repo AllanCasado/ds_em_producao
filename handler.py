@@ -5,7 +5,7 @@ import pickle
 import os
 
 #loading model
-model = pickle.load(open('../artifacts/model.pkl', 'rb'))
+model = pickle.load(open('artifacts/model.pkl', 'rb'))
 
 #initialize api
 app = Flask(__name__)
